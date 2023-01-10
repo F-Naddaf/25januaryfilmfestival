@@ -14,7 +14,7 @@ This program was built entirely as a voluntary work for a charitable organizatio
 ## 3. Link and Preview
 
 ![App view](./public/Image/Laptop-and-mobile.png)
-Project link is available at [25 January Film Festival](https://25januaryfilmfestival.nl/)
+Project link is available at [25 January Film Festival](https://25januaryfilmfestival.nl/) </br>
 We are using this website style [Noordelijk Film Festival](https://noordelijkfilmfestival.nl/)
 
 ### Color guide
