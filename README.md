@@ -13,18 +13,18 @@ This program was built entirely as a voluntary work for a charitable organizatio
 
 ## 3. Link and Preview
 
-![App view](./public/Images/Laptop-and-mobile.png)
+![App view](./public/Image/Laptop-and-mobile.png)
 Project link is available at [25 January Film Festival](https://25januaryfilmfestival.nl/)
 We are using this website style [Noordelijk Film Festival](https://noordelijkfilmfestival.nl/)
 
 ### Color guide
 
-![App color guide](./public/Images/color-guide.png)
+![App color guide](./public/Image/color-guide.png)
 
 ## 5. Built with
 
-![React](./public/Images/React-logo.png)
-![Material UI](./public/Images/Material-UI.png)
+![React](./public/Image/React-logo.png)
+![Material UI](./public/Image/Material-UI.png)
 
 ## 6. Code structure
 
